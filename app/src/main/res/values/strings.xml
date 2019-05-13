@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LayoutTable</string>
+
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+
+    <string name="read">Reading</string>
+    <string name="travel">Traveling</string>
+    <string name="code">Coding</string>
+
+    <string name="male">Male</string>
+    <string name="famale">Female</string>
+
+    <string name="txtLan">Languages</string>
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string name="language">Language: </string>
+
+    <string name="textinfor">You have experience with Java framewoks</string>
+
+    <string name="btnOK">OK</string>
+    <string name="btnCancel">Cancel</string>
+</resources>
